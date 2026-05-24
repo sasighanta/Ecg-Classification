@@ -71,7 +71,7 @@ Ecg-Classification/
 
 ---
 
-## ⚙️ How to Run
+##  How to Run
 
 ### 1️⃣ Clone Repository
 ```bash
@@ -107,10 +107,10 @@ pip install -r requirements.txt
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
-**Sasi Sai Tulasi Ghanta**  
-[GitHub](https://github.com/sasighanta) • [LinkedIn](https://linkedin.com/in/sasighanta)
+**Sasi Ghanta**  
+[GitHub](https://github.com/sasighanta) • [LinkedIn](https://www.linkedin.com/in/sasi-ghanta-04420a2b4)
 
 ---
 
