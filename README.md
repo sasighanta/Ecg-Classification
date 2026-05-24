@@ -1,18 +1,18 @@
-# 🫀 ECG-Based Heart Attack Detection Using CNN
+#  ECG-Based Heart Attack Detection Using CNN
 
 A deep learning project for automatic classification of ECG (Electrocardiogram) signals to detect cardiac abnormalities including heart attack patterns using Convolutional Neural Networks.
 
-📁 **GitHub:** [github.com/sasighanta/Ecg-Classification](https://github.com/sasighanta/Ecg-Classification)
+ **GitHub:** [github.com/sasighanta/Ecg-Classification](https://github.com/sasighanta/Ecg-Classification)
 
 ---
 
-## 📸 Overview
+##  Overview
 
 This project focuses on classifying ECG heartbeat signals into different categories using deep learning, achieving **98% accuracy** on the test dataset. The model can detect normal and abnormal heartbeat patterns for healthcare applications.
 
 ---
 
-## ✨ Features
+##  Features
 
 - 🔍 **ECG Signal Classification** — Automatically classifies heartbeats into multiple categories
 - 🧠 **Deep Learning Model** — CNN-based architecture for high accuracy classification
@@ -22,7 +22,7 @@ This project focuses on classifying ECG heartbeat signals into different categor
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |-------|-----------|
@@ -35,7 +35,7 @@ This project focuses on classifying ECG heartbeat signals into different categor
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 This project uses the **Heartbeat ECG Dataset** available on Kaggle.
 
@@ -46,7 +46,7 @@ This project uses the **Heartbeat ECG Dataset** available on Kaggle.
 
 ---
 
-## 🧠 Methodology
+##  Methodology
 
 1. **Data Preprocessing** — ECG signal cleaning and normalization
 2. **Feature Extraction** — Extracting meaningful features from heartbeat signals
@@ -57,7 +57,7 @@ This project uses the **Heartbeat ECG Dataset** available on Kaggle.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Ecg-Classification/
@@ -90,7 +90,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📊 Results
+##  Results
 
 | Model | Accuracy |
 |-------|---------|
@@ -99,7 +99,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 - Real-time ECG signal classification
 - Mobile app integration
 - Multi-lead ECG analysis
@@ -114,6 +114,3 @@ pip install -r requirements.txt
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
