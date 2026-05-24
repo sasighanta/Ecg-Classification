@@ -14,11 +14,11 @@ This project focuses on classifying ECG heartbeat signals into different categor
 
 ##  Features
 
-- 🔍 **ECG Signal Classification** — Automatically classifies heartbeats into multiple categories
-- 🧠 **Deep Learning Model** — CNN-based architecture for high accuracy classification
-- 📊 **Performance Evaluation** — Accuracy, precision, recall and confusion matrix analysis
-- ⚖️ **Model Comparison** — Compared CNN with traditional ML approaches (SVM, Random Forest)
-- 📈 **98% Accuracy** — Achieved on MIT-BIH Arrhythmia dataset
+-  **ECG Signal Classification** — Automatically classifies heartbeats into multiple categories
+-  **Deep Learning Model** — CNN-based architecture for high accuracy classification
+-  **Performance Evaluation** — Accuracy, precision, recall and confusion matrix analysis
+-  **Model Comparison** — Compared CNN with traditional ML approaches (SVM, Random Forest)
+-  **98% Accuracy** — Achieved on MIT-BIH Arrhythmia dataset
 
 ---
 
